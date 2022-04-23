@@ -1,0 +1,8 @@
+For ML : 
+Create ur own MiniConda or Anaconda environment and install following pacakages :
+Numpy, Matplotlib, pandas, sckit-learn, seaborn
+
+Also, Create ur Azure ML enviornment
+
+For Web :
+nodejs, mySql,node_modules, axios, react, express, child_process(For calling python file from js) 
